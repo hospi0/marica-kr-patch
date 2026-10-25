@@ -25,9 +25,9 @@ def corpus():
             if ln:
                 t = ln.split('\t')[4]; bg.update(t[i:i + 2] for i in range(len(t) - 1))
     srcs = {}
-    for f in glob.glob(os.path.join(ROOT, 'data', '번역할것', '텍스트_*.tsv')):
+    for f in glob.glob(os.path.join(ROOT, 'data', '번역할것', '텍스트_*.tsv')) + glob.glob(os.path.join(ROOT, 'data', '번역', '텍스트_추가*.tsv')):
         for ln in open(f, encoding='utf-8-sig').read().split('\n')[1:]:
-            if ln: c = ln.split('\t'); srcs[c[0]] = c[1]
+            if ln: c = ln.split('\t'); srcs.setdefault(c[0], c[1])          # 보충 번역(텍스트_추가*) 원문도 — 02226~ 는 여기만 있음
     for ln in open(os.path.join(ROOT, 'data', '번역할것', '_텍스트위치.tsv'), encoding='utf-8-sig').read().split('\n')[1:]:
         if not ln: continue
         n, locs = ln.split('\t')
