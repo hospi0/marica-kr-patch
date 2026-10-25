@@ -35,7 +35,7 @@ def replace_josa(t, a, b):
     return ''.join(out)
 
 
-MAC_W, MAC_L, DESC_W = 21, 3, 17
+MAC_W, MAC_L, DESC_W = 20, 3, 17                # 대사 창 20칸(2026-10-25 스샷 실측: 칸 74px·공백 반 칸, «모른다» 다 잘림 — 예전 21 은 틀림)
 SP = '　'
 
 
@@ -140,7 +140,7 @@ def main():
             if t2.count(ch) < src.count(ch): probs.append((d['_where'], n, '괄호 %s 부족' % ch, src, t2))
         if JP.search(TOK.sub('', t2)): probs.append((d['_where'], n, '가나·한자 남음', src, t2))
         if '\n' in t2 or '\t' in t2: probs.append((d['_where'], n, '실개행·탭', src, t2))
-        # 창 폭(2026-10-25 스샷 my files/할일 실측): 필드 대사 창 21칸×3줄(이름「 뒤 들여쓰기) · 아이템 설명 17칸(줄 끝 #1X 는 원문 폭에 맞춘 칸)
+        # 창 폭(2026-10-25 스샷 my files/할일 실측): 필드 대사 창 20칸×3줄(이름「 뒤 들여쓰기) · 아이템 설명 17칸(줄 끝 #1X 는 원문 폭에 맞춘 칸)
         where = d.get('위치', '')
         if 'MAC' in where:
             t2, bad = rewrap(src, t2, MAC_W)

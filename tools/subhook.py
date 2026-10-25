@@ -29,6 +29,7 @@ YA = P.YA; GY = 4                       # 글자 윗줄(24 줄 띠 안 4~19)
 SUBMAX = 0xC00                          # 가장 큰 덩어리 2,922 B(+8)
 GR0, GROWS = 1, 14                      # 글꼴 칸은 16행 중 1~14행만 저장(28 B) — 갈무리14 잉크 행 1~14
 FONT_B = 2 * GROWS
+PRIS = 0x0607B8E0                       # SBL VDP2 레지스터 그림자의 PRISA(+2 PRISB) — 필드·전투 스테이트 확인
 RAM_END = 0x0608D000                    # ★SEN.BIN 0x0600FA48: 얼굴(?) 파일을 0x0608D000 + 번호×0x11000 에 실음 → 블록은 이 아래만(2026-10-25 실기 거리 장면에서 글꼴 덮임)
 
 
@@ -127,9 +128,19 @@ def code(lay):
     a.movi(0, 0); a.stld(0, 4, 1)                                                                    # 프레임 0 — 재생 함수 호출부터 세면 CD 읽기 지연(~0.7초)만큼 앞 쪽이 지나가 버림(2026-10-25 실기 «마리카» 순식간)
     a.L('cb_cont'); a.ld(0, CONT); a.ldspr(0); a.rts(); a.nop()
     a.L('cb_retry'); a.ld(0, RETRY); a.ldspr(0); a.rts(); a.nop()
+    # 우선순위 번호(vbo 가 매 프레임 부름): 게임 VDP2 그림자 PRISA·PRISB 에서 S0~S3 중 가장 앞(같으면 S3 쪽) → COLR 비트 14~13
+    # (2026-10-25 실기 «전투 중 자막 안 나옴»: 필드 S3=7 이지만 전투는 S3=0(안 보임)·S0=7)
+    a.L('prio'); a.ld(1, PRIS); a.w(0x6211, 0x8511, 0x6303)                                                         # r2 = PRISA, r3 = PRISB
+    a.w(0x6033, 0x4019, 0xC907, 0x6403, 0xE503)                                                        # r4 = S3, r5 = 3
+    a.w(0x6033, 0xC907, 0x3047); a.br('bf', 'pr2'); a.w(0x6403, 0xE502); a.L('pr2')                      # S2
+    a.w(0x6023, 0x4019, 0xC907, 0x3047); a.br('bf', 'pr1'); a.w(0x6403, 0xE501); a.L('pr1')              # S1
+    a.w(0x6023, 0xC907, 0x3047); a.br('bf', 'pr0'); a.w(0x6403, 0xE500); a.L('pr0')                      # S0
+    a.w(0x6053, 0x4018, 0x4008, 0x4008, 0x4000, 0xCBF0)                                                # r0 = 번호<<13 | 0xF0
+    a.ld(1, OWN + 6); a.w(0x2101); a.ld(1, VAR + 0x26); a.w(0x2101)                                      # OWN·견본 COLR
+    a.rts(); a.nop()
     a.ltorg()
     # ── vbo
-    a.L('vbo'); a.pushpr(); a.br('bsr', 'sub'); a.nop(); a.ld(0, VBO); a.jsr(0); a.nop(); a.poppr(); a.rts(); a.nop()
+    a.L('vbo'); a.pushpr(); a.br('bsr', 'prio'); a.nop(); a.br('bsr', 'sub'); a.nop(); a.ld(0, VBO); a.jsr(0); a.nop(); a.poppr(); a.rts(); a.nop()
     # ── sub
     a.L('sub'); a.ld(6, VAR)
     a.ld(2, CB_AT); a.ld(0, 'cb'); a.stl(0, 2)                                                       # 콜백 자리 늘 우리 것
@@ -148,8 +159,8 @@ def code(lay):
     a.ld(1, lay['COMP']); a.ld(2, TEX); a.ld(5, BMPSZ // 4)
     a.L('cp'); a.ldl(1, 0); a.stl(0, 2); a.addi(4, 1); a.addi(4, 2); a.dt(5); a.br('bf', 'cp')
     a.L('crm'); a.ld(2, CRAM); a.ld(0, 0x0000); a.w(0x8121); a.ld(0, 0x7FFF); a.w(0x8122); a.ld(0, 0x4A52); a.w(0x8123)
-    # 명령표 연결(PoC 그대로)
     W = a.w
+    # 명령표 연결(PoC 그대로)
     a.L('link'); a.ld(1, READY); W(0x6012, 0x2008); a.br('bt', 'ret')
     a.ld(1, LIST); W(0xE700); a.ld(5, 3000)
     a.L('wl'); W(0x6011, 0x4011); a.br('bf', 'isend')

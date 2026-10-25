@@ -19,6 +19,7 @@ DISC = os.path.join(ROOT, 'work', 'disc')
 OUT = os.path.join(ROOT, 'work', 'build', 'files')
 GALMURI = r'C:\claude\utils\font\Galmuri-v2.40.3\Galmuri11.bdf'
 TAB_SEN, TAB_TITLE, NTAB = 0x630E8, 0x82BC, 1377
+NAME_TAB = 0x654B4                                 # SEN.BIN 기본 이름 표 «まりかあきらかなめ»
 FONT_DATA, FONT_TITLE = 0xD000, 0x67800
 SP = '　'
 
@@ -358,6 +359,10 @@ def main():
             d, items = move_title_places(d, items, enc)
         try: d = patch_strings(d, items, enc, cstr, report, f)
         except UnicodeEncodeError as e: report.append((f, '', '글자 변환 실패 %s' % e, '', ''))
+        if f == 'SEN.BIN':                                                # 기본 이름 표(3명 × 6 B, 끝 00 없음 — 추출 안 됨) → 새 게임 때 RAM 0x06063CE4 등으로 복사, 전투 메시지 «まりかは…»(2026-10-25 하스피)
+            src, new = 'まりかあきらかなめ'.encode('cp932'), enc('마리카아키라카나메')
+            assert d[NAME_TAB:NAME_TAB + len(src)] == src and len(new) == len(src)
+            d = d[:NAME_TAB] + new + d[NAME_TAB + len(src):]
         out[f] = d
     # 글꼴(SEN_DATA·TITLE 사본) + 타이틀 로고
     sd = bytearray(out['SEN/SEN_DATA.DAT']); sd[FONT_DATA:FONT_DATA + 0x1000 + NTAB * 28] = draw_glyphs(bytes(sd[FONT_DATA:FONT_DATA + 0x1000 + NTAB * 28]), 0, gmap)
