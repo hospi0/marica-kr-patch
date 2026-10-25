@@ -1,0 +1,275 @@
+﻿번호	원문	번역	위치	쓰인 곳	종류
+00702	頸一郎「なんじゃ？」		FLD/M0B/MAC02C.DAT:1078C	3	대사
+00703	頸一郎「屋根裏部屋にばあさんの{n}　　　　品がまだあるはずじゃ」		FLD/M0B/MAC02C.DAT:107C0	3	대사
+00704	頸一郎「おぉまりかや」		FLD/M0B/MAC02C.DAT:1080C	3	대사
+00705	頸一郎「いつでも遊びにきなさい」		FLD/M0B/MAC02C.DAT:10832	3	대사
+00706	まりかは#1祖母のクシ#0を発見した		FLD/M0B/MAC02C.DAT:1085E	3	대사
+00707	まりかは#1祖母の写真#0と{n}祖母の日記と#1祖母の薬#0を{n}発見した		FLD/M0B/MAC02C.DAT:1088E	3	대사
+00708	日記には一通の封筒がはさまっていた		FLD/M0B/MAC02C.DAT:108E0	3	대사
+00709	信長はパソコン通信からダウンした{n}情報に再度目を通した		FLD/M0B/MAC02C.DAT:1090E	3	대사
+00710	「筑波にある遺伝子研究所の薬品が{n}　ファクト機関に狙われているらしい」{n}現在わかっているのはこの程度である		FLD/M0B/MAC02C.DAT:10950	3	대사
+00711	会社員「ここは遺伝子関係を{n}　　　　研究している研究所らしいよ」		FLD/M0B/MAC02C.DAT:109CA	3	대사
+00712	会社員「ここは筑波{n}　　　　研究所ばかりで遊ぶ場所{n}　　　　なんてないよ」		FLD/M0B/MAC02C.DAT:10A18	3	대사
+00713	会社員「テロリストの噂？{n}　　　　ここは研究所が多いからね{n}　　　　狙われる可能性は高いな」		FLD/M0B/MAC02C.DAT:10A72	3	대사
+00714	会社員「研究者って人間は{n}　　　　変わり者で利己的な人間が多い{n}　　　　そうは思わんかね？」		FLD/M0B/MAC02C.DAT:10ADE	3	대사
+00715	学生「君達みたいな女の子が{n}　　　こんな街になんて{n}　　　珍しいね」		FLD/M0B/MAC02C.DAT:10B4A	3	대사
+00716	研究員「ここは遺伝子破損に関しての{n}　　　　研究をしているんだ」		FLD/M0B/MAC02C.DAT:10B9E	3	대사
+00717	研究員「ところで君はだれ？」		FLD/M0B/MAC02C.DAT:10BEA	3	대사
+00718	研究員「テロリスト？　そういや{n}　　　　怪しい連中は確かにうようよ{n}　　　　しているなぁ…」		FLD/M0B/MAC02C.DAT:10C1A	3	대사
+00719	研究員「うちの研究分野は{n}　　　　遺伝子破損　テロリストが{n}　　　　興味を持つとは思えないが」		FLD/M0B/MAC02C.DAT:10C84	3	대사
+00720	研究員「テロリストに薬品を盗まれて{n}　　　　しまった…　研究中の{n}　　　　大切な薬品だったのに…」		FLD/M0B/MAC02C.DAT:10CF6	3	대사
+00721	まりか「ここが遺伝子研究所…」		FLD/M0B/MAC02C.DAT:10D68	3	대사
+00722	かなめ「とりあえず私が{n}　　　　様子を見てくるわ」		FLD/M0B/MAC02C.DAT:10D90	3	대사
+00723	かなめ「情報を詳しく集めないと」		FLD/M0B/MAC02C.DAT:10E2C	3	대사
+00724	フロント「お客さま！！{n}　　　　　勝手に上がられてはこちらが{n}　　　　　困ります！！」		FLD/M0B/MAC02C.DAT:10E64	3	대사
+00725	フロント「当ホテルに何か{n}　　　　　御用でしょうか？」		FLD/M0B/MAC02C.DAT:10EE6	3	대사
+00726	特に泊まる用事はない		FLD/M0B/MAC02C.DAT:10F28	3	대사
+00727	フロント「いらっしゃいませ{n}　　　　　三階奥のお部屋を{n}　　　　　お使いください」		FLD/M0B/MAC02C.DAT:10F48	6	대사
+00728	まりかは敵の気配を察知した！！		FLD/M0B/MAC02C.DAT:11024	3	대사
+00729	あきらは敵の気配を察知した！！		FLD/M0B/MAC02C.DAT:1104E	3	대사
+00730	かなめは敵の気配を察知した！！		FLD/M0B/MAC02C.DAT:11078	3	대사
+00731	筑波合金研究所{n}関係者以外の立ち入りを禁ずる		FLD/M0B/MAC02C.DAT:110A2	3	대사
+00732	研究員「合金を見せて欲しい？{n}　　　　ダメダメ　研究中の素材を{n}　　　　関係者以外に見せるのなんて」		FLD/M0B/MAC02C.DAT:110E4	3	대사
+00733	研究員「ノーサンキューですよ」		FLD/M0B/MAC02C.DAT:11156	3	대사
+00734	研究員「夜に忍び込んで勝手に{n}　　　　見るなんてまねも{n}　　　　ノーサンキューですよ」		FLD/M0B/MAC02C.DAT:11184	3	대사
+00735	研究員「この研究所では新しい{n}　　　　合金の研究をしているんだ」		FLD/M0B/MAC02C.DAT:111EA	3	대사
+00736	研究員「コラ！　そっちは倉庫だ{n}　　　　勝手に入っちゃいかん！！」		FLD/M0B/MAC02C.DAT:11240	3	대사
+00737	まりか達は身体を休めた…		FLD/M0B/MAC02C.DAT:11294	3	대사
+00738	会社員「私はセールスでこの{n}　　　　街に来ているんだが」		FLD/M0B/MAC02C.DAT:112B8	3	대사
+00739	会社員「研究者って変わりものが{n}　　　　多いから{n}　　　　商売も大変だよ」		FLD/M0B/MAC02C.DAT:112FC	3	대사
+00740	会社員「この街にはパーっと{n}　　　　騒げる場所が無くて{n}　　　　わしゃつまらんよ」		FLD/M0B/MAC02C.DAT:11356	3	대사
+00741	会社員「テロリストはこんな研究{n}　　　　都市でも犯行のターゲットに{n}　　　　するんだろうか…？」		FLD/M0B/MAC02C.DAT:113B8	3	대사
+00742	あきら「外に出るんは{n}　　　　合金を見つけてからや」		FLD/M0B/MAC02C.DAT:11430	3	대사
+00743	棚に合金素材が収納されている{n}黒く鈍く輝いた素材だ		FLD/M0B/MAC02C.DAT:11476	3	대사
+00744	あきらは#1あきらの素材#0を{n}手に入れた！！		FLD/M0B/MAC02C.DAT:114B4	3	대사
+00745	棚に合金素材が収納されている{n}金色に輝いた素材だ		FLD/M0B/MAC02C.DAT:114F0	3	대사
+00746	棚に合金素材が収納されている{n}青黒い色の素材だ		FLD/M0B/MAC02C.DAT:11560	3	대사
+00747	棚の中はカラだった		FLD/M0B/MAC02C.DAT:115CE	6	대사
+00748	あきらは腕をかまれた！！		FLD/M0B/MAC02C.DAT:1160A	3	대사
+00749	信長「なんとかあきらさんを{n}　　　守ってみせるよ…」		FLD/M0B/MAC02C.DAT:11632	3	대사
+00750	扉には{n}「テロリスト襲撃のため現在休業中」{n}と書かれた紙が貼ってある		FLD/M0B/MAC02C.DAT:1167C	3	대사
+00751	受け付け「Ｇスタジオはそこの{n}　　　　　廊下の突き当たりに{n}　　　　　あります」		FLD/M0B/MAC02C.DAT:116DC	6	대사
+00752	受け付け「だけど今は何の収録も{n}　　　　　していませんよ」		FLD/M0B/MAC02C.DAT:1179A	3	대사
+00753	かなめは評論家の手を握った		FLD/M0B/MAC02C.DAT:117E2	3	대사
+00754	上空に真実の人の立体映像が浮かんだ！！		FLD/M0B/MAC02C.DAT:11808	3	대사
+00755	まりかは#1リボンの素材#0を{n}手に入れた！！		FLD/M0B/MAC02C.DAT:1183E	3	대사
+00756	まりかは望遠鏡から外を覗いた		FLD/M0B/MAC02C.DAT:1187E	6	대사
+00757	コンドルの機影がはっきりと見える		FLD/M0B/MAC02C.DAT:118A4	3	대사
+00758	いい眺めだ		FLD/M0B/MAC02C.DAT:1192E	3	대사
+00759	まりかはコンソールを操作した		FLD/M0B/MAC02C.DAT:1194C	18	대사
+00760	二番　三番および{n}四番エンジンを切り離します{n}セキュリティ解除		FLD/M0B/MAC02C.DAT:11972	3	대사
+00761	二番　三番および四番エンジンは{n}切り離されている		FLD/M0B/MAC02C.DAT:119C4	3	대사
+00762	五番および六番エンジンを切り離します{n}フロアーセキュリティ解除{n}フロアーセキュリティ解除		FLD/M0B/MAC02C.DAT:11A38	3	대사
+00763	セキュリティ作動{n}セキュリティ作動		FLD/M0B/MAC02C.DAT:11ACA	3	대사
+00764	エンジンはまだ切り離せない様だ		FLD/M0B/MAC02C.DAT:11AF8	3	대사
+00765	五番および六番エンジンは{n}切り離されている		FLD/M0B/MAC02C.DAT:11B22	3	대사
+00766	フロアーセキュリティ作動{n}フロアーセキュリティ作動		FLD/M0B/MAC02C.DAT:11B5A	3	대사
+00767	扉は閉ざされている		FLD/M0B/MAC02C.DAT:11B98	3	대사
+00768	一番エンジンを切り離します{n}セキュリティ解除{n}セキュリティ解除		FLD/M0B/MAC02C.DAT:11CDE	6	대사
+00769	七番エンジンを切り離します{n}セキュリティ解除{n}セキュリティ解除		FLD/M0B/MAC02C.DAT:11D56	3	대사
+00770	ここは確かに祖父の家だ{n}しかし迷惑はかけられない		FLD/M0B/MAC02C.DAT:11E62	3	대사
+00771	キャリアーには#1火炎放射器#0が{n}入っていた		FLD/M0B/MAC02C.DAT:11ED8	3	대사
+00772	すでに息をひきとっている様だ…		FLD/M0B/MAC02C.DAT:11F14	3	대사
+00773	ロッカーには#1グローブプラス#0が{n}入っていた		FLD/M0B/MAC02C.DAT:11F3E	3	대사
+00774	工作員達の集めた戦利品が置いてある		FLD/M0B/MAC02C.DAT:11F8C	9	대사
+00775	まりか達は{n}#1奇麗な皿#0を{n}手に入れた		FLD/M0B/MAC02C.DAT:11FB8	3	대사
+00776	まりか達は{n}#1古ぼけた皿#0を{n}手に入れた		FLD/M0B/MAC02C.DAT:1201E	3	대사
+00777	まりかは祖母のリボンを発見した		FLD/M0B/MAC02C.DAT:12088	3	대사
+00778			FLD/M0B/MAC02C.DAT:316AC	4	대사
+00779	なにもおぼえていない		SEN.BIN:34025	1	문자열
+00780	なにも持っていない		SEN.BIN:3403C	1	문자열
+00781	戦闘中に使える道具を持っていない！		SEN.BIN:34051	2	문자열
+00782	ＳＰが足りない！		SEN.BIN:34076	1	문자열
+00783	このようになります		SEN.BIN:6400A	1	문자열
+00784	自動で整頓します。		SEN.BIN:640A6	1	문자열
+00785	ＬＶ		SEN/SEN_DATA.DAT:4081	1	문자열
+00786	ＨＰ		SEN/SEN_DATA.DAT:4088	2	문자열
+00787	ＳＰ		SEN/SEN_DATA.DAT:408F	2	문자열
+00788	所持金		SEN/SEN_DATA.DAT:4096	2	문자열
+00789	装　備		SEN/SEN_DATA.DAT:409F	1	문자열
+00790	超能力		SEN/SEN_DATA.DAT:40B0	1	문자열
+00791	道　具		SEN/SEN_DATA.DAT:40C1	1	문자열
+00792	合体超能力		SEN/SEN_DATA.DAT:40D2	1	문자열
+00793	思　考		SEN/SEN_DATA.DAT:40E3	1	문자열
+00794	オプション		SEN/SEN_DATA.DAT:40F4	1	문자열
+00795	移　動		SEN/SEN_DATA.DAT:4105	1	문자열
+00796	セーブ・ロード		SEN/SEN_DATA.DAT:4116	1	문자열
+00797	神崎まりか		SEN/SEN_DATA.DAT:4127	1	문자열
+00798	金本あきら		SEN/SEN_DATA.DAT:4134	1	문자열
+00799	東堂かなめ		SEN/SEN_DATA.DAT:4141	1	문자열
+00800	セーブ		SEN/SEN_DATA.DAT:414E	1	문자열
+00801	ロード		SEN/SEN_DATA.DAT:415D	2	문자열
+00802	は　い		SEN/SEN_DATA.DAT:416C	2	문자열
+00803	いいえ		SEN/SEN_DATA.DAT:4179	4	문자열
+00804	切 替		SEN/SEN_DATA.DAT:4186	2	문자열
+00805	本体ＲＡＭ		SEN/SEN_DATA.DAT:4190	2	문자열
+00806	ＲＡＭカードリッジ		SEN/SEN_DATA.DAT:419D	1	문자열
+00807	ファイル1		SEN/SEN_DATA.DAT:41B2	1	문자열
+00808	ファイル2		SEN/SEN_DATA.DAT:41BF	1	문자열
+00809	ファイル3		SEN/SEN_DATA.DAT:41CC	1	문자열
+00810	ファイル4		SEN/SEN_DATA.DAT:41D9	1	문자열
+00811	セーブポイント：		SEN/SEN_DATA.DAT:41E6	1	문자열
+00812	渋谷ハチ公口		SEN/SEN_DATA.DAT:41F8	3	문자열
+00813	渋谷東口		SEN/SEN_DATA.DAT:4206	3	문자열
+00814	錦 糸 町		SEN/SEN_DATA.DAT:4214	1	문자열
+00815	代 々 木		SEN/SEN_DATA.DAT:4222	1	문자열
+00816	南 千 住		SEN/SEN_DATA.DAT:4230	1	문자열
+00817	一 ノ 橋		SEN/SEN_DATA.DAT:423E	1	문자열
+00818	新宿南口		SEN/SEN_DATA.DAT:424C	3	문자열
+00819	新宿東口		SEN/SEN_DATA.DAT:425A	3	문자열
+00820	西 麻 布		SEN/SEN_DATA.DAT:4268	1	문자열
+00821	品　　川		SEN/SEN_DATA.DAT:4276	1	문자열
+00822	味 方 村		SEN/SEN_DATA.DAT:4284	1	문자열
+00823	西 馬 込		SEN/SEN_DATA.DAT:4292	1	문자열
+00824	銚　　子		SEN/SEN_DATA.DAT:42A0	1	문자열
+00825	筑　　波		SEN/SEN_DATA.DAT:42AE	1	문자열
+00826	三 国 山		SEN/SEN_DATA.DAT:42BC	1	문자열
+00827	Ｔ Ｖ 局		SEN/SEN_DATA.DAT:42CA	1	문자열
+00828	石 廊 崎		SEN/SEN_DATA.DAT:42D8	1	문자열
+00829	加妻新島		SEN/SEN_DATA.DAT:42E6	3	문자열
+00830	移動しますか		SEN/SEN_DATA.DAT:42F4	1	문자열
+00831	#7速さ		SEN/SEN_DATA.DAT:4305	1	문자열
+00832	#7攻撃		SEN/SEN_DATA.DAT:430E	1	문자열
+00833	#7防御		SEN/SEN_DATA.DAT:4317	1	문자열
+00834	#7命中		SEN/SEN_DATA.DAT:4320	1	문자열
+00835	#7効果		SEN/SEN_DATA.DAT:4329	1	문자열
+00836	#7魅力		SEN/SEN_DATA.DAT:4332	1	문자열
+00837	#7通常		SEN/SEN_DATA.DAT:433B	1	문자열
+00838	#7火炎		SEN/SEN_DATA.DAT:4344	1	문자열
+00839	#7冷気		SEN/SEN_DATA.DAT:434D	1	문자열
+00840	#7粒子		SEN/SEN_DATA.DAT:4356	1	문자열
+00841	#7光線		SEN/SEN_DATA.DAT:435F	1	문자열
+00842	#7砲弾		SEN/SEN_DATA.DAT:4368	1	문자열
+00843	#7麻痺		SEN/SEN_DATA.DAT:437A	1	문자열
+00844	#7気絶		SEN/SEN_DATA.DAT:4383	1	문자열
+00845	#7催眠		SEN/SEN_DATA.DAT:4395	1	문자열
+00846	#7混乱		SEN/SEN_DATA.DAT:439E	1	문자열
+00847	#7超能		SEN/SEN_DATA.DAT:43A7	1	문자열
+00848	#7経験値		SEN/SEN_DATA.DAT:43B0	1	문자열
+00849	#3特殊防御		SEN/SEN_DATA.DAT:43C7	1	문자열
+00850	#3ＳＴ防御		SEN/SEN_DATA.DAT:43D4	1	문자열
+00851	買　う		SEN/SEN_DATA.DAT:43E1	1	문자열
+00852	売　る		SEN/SEN_DATA.DAT:43EE	2	문자열
+00853	出　る		SEN/SEN_DATA.DAT:43FB	1	문자열
+00854	価格(円)		SEN/SEN_DATA.DAT:4408	1	문자열
+00855	買わない		SEN/SEN_DATA.DAT:4418	1	문자열
+00856	合　計		SEN/SEN_DATA.DAT:442E	1	문자열
+00857	所有数		SEN/SEN_DATA.DAT:4437	1	문자열
+00858	売価(円)		SEN/SEN_DATA.DAT:4440	1	문자열
+00859	売らない		SEN/SEN_DATA.DAT:4458	1	문자열
+00860	売れるものがありません。		SEN/SEN_DATA.DAT:4465	1	문자열
+00861	武器		SEN/SEN_DATA.DAT:4480	1	문자열
+00862	防具		SEN/SEN_DATA.DAT:4489	1	문자열
+00863	持物1		SEN/SEN_DATA.DAT:4492	1	문자열
+00864	持物2		SEN/SEN_DATA.DAT:449B	1	문자열
+00865	持物3		SEN/SEN_DATA.DAT:44A4	1	문자열
+00866	確　認		SEN/SEN_DATA.DAT:44AD	1	문자열
+00867	これでいいですか		SEN/SEN_DATA.DAT:44BA	1	문자열
+00868	は  い		SEN/SEN_DATA.DAT:44CD	1	문자열
+00869	はずす		SEN/SEN_DATA.DAT:44DF	1	문자열
+00870	使　う		SEN/SEN_DATA.DAT:44ED	1	문자열
+00871	捨てる		SEN/SEN_DATA.DAT:44FA	1	문자열
+00872	自動整頓		SEN/SEN_DATA.DAT:4507	1	문자열
+00873	任意整頓		SEN/SEN_DATA.DAT:4514	1	문자열
+00874	やめる		SEN/SEN_DATA.DAT:4521	1	문자열
+00875	本当に捨ててもよろしいですか？		SEN/SEN_DATA.DAT:4547	1	문자열
+00876	Ｂボタンで終了します。		SEN/SEN_DATA.DAT:4569	1	문자열
+00877	サウンド出力		SEN/SEN_DATA.DAT:4587	1	문자열
+00878	アイテム説明		SEN/SEN_DATA.DAT:4596	1	문자열
+00879	終　　　　　了		SEN/SEN_DATA.DAT:45A5	1	문자열
+00880	ステレオ		SEN/SEN_DATA.DAT:45B6	2	문자열
+00881	モノラル		SEN/SEN_DATA.DAT:45C1	2	문자열
+00882	Ｏ　Ｎ		SEN/SEN_DATA.DAT:45CC	1	문자열
+00883	ＯＦＦ		SEN/SEN_DATA.DAT:45D5	2	문자열
+00884	㊦㊦		SEN/SEN_DATA.DAT:4841	1	문자열
+00885	ヨｂ		SEN/SEN_DATA.DAT:4847	1	문자열
+00886	ｂｅｂ		SEN/SEN_DATA.DAT:4850	1	문자열
+00887	葛血穴		SEN/SEN_DATA.DAT:4881	1	문자열
+00888	旧血激レ		SEN/SEN_DATA.DAT:4889	1	문자열
+00889	死緒誌		SEN/SEN_DATA.DAT:48C1	1	문자열
+00890	準緒死準		SEN/SEN_DATA.DAT:48D4	1	문자열
+00891	ヲ		SEN/SEN_DATA.DAT:4901	1	문자열
+00892	ヲ末		SEN/SEN_DATA.DAT:4948	1	문자열
+00893	覧覧覧覧		SEN/SEN_DATA.DAT:494D	1	문자열
+00894	ｗ覧		SEN/SEN_DATA.DAT:4981	1	문자열
+00895	ヨ		SEN/SEN_DATA.DAT:49D1	1	문자열
+00896	ム		SEN/SEN_DATA.DAT:4A1D	1	문자열
+00897	鋳鋳		SEN/SEN_DATA.DAT:4AD2	1	문자열
+00898	代々木		SEN/SEN_DATA.DAT:4B00	1	문자열
+00899	まりかの家		SEN/SEN_DATA.DAT:4B14	2	문자열
+00900	冬木堂		SEN/SEN_DATA.DAT:4B28	2	문자열
+00901	公園		SEN/SEN_DATA.DAT:4B3C	2	문자열
+00902	工場跡		SEN/SEN_DATA.DAT:4B50	2	문자열
+00903	父の職場		SEN/SEN_DATA.DAT:4B78	2	문자열
+00904	ブルセラショップ		SEN/SEN_DATA.DAT:4B8C	2	문자열
+00905	ガレージ		SEN/SEN_DATA.DAT:4BB4	2	문자열
+00906	ＣＤ店		SEN/SEN_DATA.DAT:4BC8	2	문자열
+00907	フルメタルカフェ		SEN/SEN_DATA.DAT:4BDC	3	문자열
+00908	デパート		SEN/SEN_DATA.DAT:4BF0	2	문자열
+00909	真実の人の部屋		SEN/SEN_DATA.DAT:4C04	2	문자열
+00910	真実の徒本部		SEN/SEN_DATA.DAT:4C18	2	문자열
+00911	錦糸町		SEN/SEN_DATA.DAT:4C40	2	문자열
+00912	ビジネスホテル		SEN/SEN_DATA.DAT:4C54	2	문자열
+00913	南千住		SEN/SEN_DATA.DAT:4C68	2	문자열
+00914	南千住警察署		SEN/SEN_DATA.DAT:4C7C	2	문자열
+00915	一ノ橋		SEN/SEN_DATA.DAT:4C90	2	문자열
+00916	東堂家		SEN/SEN_DATA.DAT:4CA4	2	문자열
+00917	茨の研究所		SEN/SEN_DATA.DAT:4CB8	2	문자열
+00918	新宿中央公園		SEN/SEN_DATA.DAT:4CE0	2	문자열
+00919	真実起業塾		SEN/SEN_DATA.DAT:4D08	2	문자열
+00920	成陽皮店		SEN/SEN_DATA.DAT:4D1C	2	문자열
+00921	品川		SEN/SEN_DATA.DAT:4D30	2	문자열
+00922	品川インペリアル		SEN/SEN_DATA.DAT:4D44	2	문자열
+00923	シスター布地商倉庫		SEN/SEN_DATA.DAT:4D58	2	문자열
+00924	西麻布		SEN/SEN_DATA.DAT:4D6C	2	문자열
+00925	味方村		SEN/SEN_DATA.DAT:4D80	2	문자열
+00926	定食屋		SEN/SEN_DATA.DAT:4D94	2	문자열
+00927	西馬込		SEN/SEN_DATA.DAT:4DA8	2	문자열
+00928	地下鉄		SEN/SEN_DATA.DAT:4DBC	2	문자열
+00929	地下鉄通路		SEN/SEN_DATA.DAT:4DD0	2	문자열
+00930	装甲姉妹のアジト		SEN/SEN_DATA.DAT:4DE4	2	문자열
+00931	銚子		SEN/SEN_DATA.DAT:4DF8	2	문자열
+00932	ホテル		SEN/SEN_DATA.DAT:4E0C	2	문자열
+00933	祖父の家		SEN/SEN_DATA.DAT:4E20	2	문자열
+00934	筑波		SEN/SEN_DATA.DAT:4E34	2	문자열
+00935	遺伝子研究所		SEN/SEN_DATA.DAT:4E48	2	문자열
+00936	合金研究所		SEN/SEN_DATA.DAT:4E5C	2	문자열
+00937	三国山		SEN/SEN_DATA.DAT:4E70	2	문자열
+00938	山小屋		SEN/SEN_DATA.DAT:4E84	2	문자열
+00939	テレビ局		SEN/SEN_DATA.DAT:4E98	2	문자열
+00940	スタジオ		SEN/SEN_DATA.DAT:4EAC	2	문자열
+00941	石廊崎		SEN/SEN_DATA.DAT:4EC0	2	문자열
+00942	灯台		SEN/SEN_DATA.DAT:4ED4	2	문자열
+00943	冬木堂は駅前にある雑貨店		SEN/SEN_DATA.DAT:6400	1	문자열
+00944	カウンターから話しかければ		SEN/SEN_DATA.DAT:641A	1	문자열
+00945	買い物ができる		SEN/SEN_DATA.DAT:6436	1	문자열
+00946	お母さんに牛肉を届けないと		SEN/SEN_DATA.DAT:6448	1	문자열
+00947	犬はどこに行ったのかしら…？		SEN/SEN_DATA.DAT:6466	1	문자열
+00948	食堂にいこう		SEN/SEN_DATA.DAT:6486	1	문자열
+00949	交番に行って助けてもらおう		SEN/SEN_DATA.DAT:6496	1	문자열
+00950	どこに逃げればいいのだろうか？		SEN/SEN_DATA.DAT:64B4	1	문자열
+00951	あの工場跡はどうなったんだろうか		SEN/SEN_DATA.DAT:64D6	1	문자열
+00952	渋谷には駅から行ける		SEN/SEN_DATA.DAT:64FA	1	문자열
+00953	父さんの仕事場はどこにあるのだろうか		SEN/SEN_DATA.DAT:6512	1	문자열
+00954	母さんにおみやげを届けよう		SEN/SEN_DATA.DAT:653A	1	문자열
+00955	ひとけの無い場所…		SEN/SEN_DATA.DAT:6558	1	문자열
+00956	例えばビルの屋上とか		SEN/SEN_DATA.DAT:656C	1	문자열
+00957	どこでゼロをやっつけよう…？		SEN/SEN_DATA.DAT:6584	1	문자열
+00958	フルメタルカフェに行って		SEN/SEN_DATA.DAT:65A4	2	문자열
+00959	つよしを見つけよう		SEN/SEN_DATA.DAT:65BE	1	문자열
+00960	とりあえずアジトに戻ろう		SEN/SEN_DATA.DAT:65D4	1	문자열
+00961	ＣＤ店に行こう		SEN/SEN_DATA.DAT:65F0	1	문자열
+00962	ＩＤカードを解析しよう		SEN/SEN_DATA.DAT:6602	1	문자열
+00963	錦糸町の製造工場に行こう		SEN/SEN_DATA.DAT:661C	1	문자열
+00964	別の街には「移動」コマンドで行ける		SEN/SEN_DATA.DAT:6636	1	문자열
+00965	家に帰ろう		SEN/SEN_DATA.DAT:665C	1	문자열
+00966	自分の部屋に闘いに使える道具は		SEN/SEN_DATA.DAT:666A	1	문자열
+00967	ないのだろうか		SEN/SEN_DATA.DAT:668A	1	문자열
+00968	一階に降りてみよう		SEN/SEN_DATA.DAT:669C	1	문자열
+00969	外に逃げないと		SEN/SEN_DATA.DAT:66B2	1	문자열
+00970	西徳デパートに行こう		SEN/SEN_DATA.DAT:66C4	1	문자열
+00971	どこでオルガをやっつけようか？		SEN/SEN_DATA.DAT:66DC	1	문자열
+00972	時計男はやっつけたが		SEN/SEN_DATA.DAT:66FE	1	문자열
+00973	ＣＤはどの部屋で作っているのだろう		SEN/SEN_DATA.DAT:6714	1	문자열
+00974	オカルト雑誌は冬木堂で		SEN/SEN_DATA.DAT:673A	1	문자열
+00975	売っているだろう		SEN/SEN_DATA.DAT:6752	1	문자열

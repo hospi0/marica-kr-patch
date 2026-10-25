@@ -1,0 +1,18 @@
+번호	원문	번역	위치	쓰인 곳	종류
+02274	水	물	SEN/SEN_DATA.DAT:204A0	1	문자열
+02275	靴	신발	SEN/SEN_DATA.DAT:256C0	1	문자열
+02276	数	수	SEN/SEN_DATA.DAT:4413	1	문자열
+02277	がよろしいですか？	괜찮습니까?	SEN.BIN:6401E	1	문자열
+02278	よろしいですか？　　　 はい いいえ	괜찮습니까?　　　　　　 예  아니요	SEN.BIN:640BA	1	문자열
+02279	オプション	옵션	TITLE.BIN:66871	1	문자열
+02280	ＢＧＭテスト	BGM 테스트	TITLE.BIN:668B1	1	문자열
+02281	メインタイトル	메인 타이틀	TITLE.BIN:66B75	1	문자열
+02282	迫りくる恐怖	다가오는 공포	TITLE.BIN:66C55	1	문자열
+02283	超能力剣士・オルガ	초능력 검사·올가	TITLE.BIN:66DF9	1	문자열
+02284	静かなる衝動	고요한 충동	TITLE.BIN:66EBD	1	문자열
+02285	ブリッジ・味方の登場	브리지·아군의 등장	TITLE.BIN:66FD5	1	문자열
+02286	まりかLV00  あきらLV00  かなめLV00	마리카LV00  아키라LV00  카나메LV00	TITLE.BIN:229D5	1	문자열
+02287	円	엔	SEN.BIN:33DCC	1	문자열
+02288	個	개	SEN.BIN:33E42	1	문자열
+02289	円	엔	SEN.BIN:33E4E	1	문자열
+02290	　　　　　　　　　　　　　　　　#1全	　　　　　　　　　　　　　　　　#1전	SEN/SEN_DATA.DAT:1CE40 SEN/SEN_DATA.DAT:1CF40 SEN/SEN_DATA.DAT:1EFC0	3	문자열

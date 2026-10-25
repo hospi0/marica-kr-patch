@@ -1,0 +1,260 @@
+﻿번호	원문	번역	위치	쓰인 곳	종류
+01585	ヒーリングエンド		SEN/SEN_DATA.DAT:1E810	1	문자열
+01586	まりか＋あきら＋ＰＫヒーリング		SEN/SEN_DATA.DAT:1E830	1	문자열
+01587	完全に回復　　　　　　　　　　　#1全		SEN/SEN_DATA.DAT:1E850	2	문자열
+01588	ＡＬヒーリング		SEN/SEN_DATA.DAT:1E890	1	문자열
+01589	６５回復　　　　　　　　　　　　#1全		SEN/SEN_DATA.DAT:1E8D0	1	문자열
+01590	ＡＬハイヒーリング		SEN/SEN_DATA.DAT:1E910	1	문자열
+01591	１４０回復　　　　　　　　　　　#1全		SEN/SEN_DATA.DAT:1E950	1	문자열
+01592	ＡＬＰヒーリング		SEN/SEN_DATA.DAT:1E990	1	문자열
+01593	ＰＫケアー		SEN/SEN_DATA.DAT:1EA10	1	문자열
+01594	念動力によってしびれをとり		SEN/SEN_DATA.DAT:1EA30	1	문자열
+01595	麻痺を回復させる能力　　　　　　#1単		SEN/SEN_DATA.DAT:1EA4E	1	문자열
+01596	テレパスケアー		SEN/SEN_DATA.DAT:1EA90	1	문자열
+01597	テレパシーにより精神を揺さぶり		SEN/SEN_DATA.DAT:1EAB0	1	문자열
+01598	気絶を回復させる能力　　　　　　#1単		SEN/SEN_DATA.DAT:1EAD0	1	문자열
+01599	リラックス		SEN/SEN_DATA.DAT:1EB10	1	문자열
+01600	テレパシーによりショック症状		SEN/SEN_DATA.DAT:1EB30	1	문자열
+01601	つまり混乱を回復させる能力　　　#1単		SEN/SEN_DATA.DAT:1EB4E	1	문자열
+01602	Ｐヒーリング		SEN/SEN_DATA.DAT:1EB90	1	문자열
+01603	完全に回復　　　　　　　　　　　#1単		SEN/SEN_DATA.DAT:1EBD0	1	문자열
+01604	ビーストヒーリング		SEN/SEN_DATA.DAT:1EC10	1	문자열
+01605	自己修復		SEN/SEN_DATA.DAT:1EC90	5	문자열
+01606	リバースエナジー		SEN/SEN_DATA.DAT:1EF10	1	문자열
+01607	敵のＨＰを吸いとって自分のＳＰを		SEN/SEN_DATA.DAT:1EF30	1	문자열
+01608	回復させる能力　　　　　　　　　#1単		SEN/SEN_DATA.DAT:1EF52	1	문자열
+01609	リバースエンド		SEN/SEN_DATA.DAT:1EF90	1	문자열
+01610	吸収		SEN/SEN_DATA.DAT:1F010	1	문자열
+01611	ホルモン吸収		SEN/SEN_DATA.DAT:1F090	1	문자열
+01612	ＰＫシールド		SEN/SEN_DATA.DAT:1F110	1	문자열
+01613	砲弾攻撃に限り跳ね返す		SEN/SEN_DATA.DAT:1F130	1	문자열
+01614	ただし自分にしかかけられない		SEN/SEN_DATA.DAT:1F148	1	문자열
+01615	聖者の構え		SEN/SEN_DATA.DAT:1F190	1	문자열
+01616	ピーピング		SEN/SEN_DATA.DAT:1F210	1	문자열
+01617	アイテムボックスの中を透視する能力		SEN/SEN_DATA.DAT:1F230	1	문자열
+01618	テレポート		SEN/SEN_DATA.DAT:1F290	1	문자열
+01619	空間転移の超能力　好きな場所に		SEN/SEN_DATA.DAT:1F2B0	1	문자열
+01620	跳ぶことができる		SEN/SEN_DATA.DAT:1F2D0	1	문자열
+01621	アウトフィールド		SEN/SEN_DATA.DAT:1F310	1	문자열
+01622	空間転移の超能力　敵の基地等から		SEN/SEN_DATA.DAT:1F330	1	문자열
+01623	外に脱出できる		SEN/SEN_DATA.DAT:1F352	1	문자열
+01624	回復薬		SEN/SEN_DATA.DAT:20020	1	문자열
+01625	応急処置用の医薬品		SEN/SEN_DATA.DAT:20040	1	문자열
+01626	ＨＰが７０回復　　　　　　　　　#1単		SEN/SEN_DATA.DAT:20054	1	문자열
+01627	特効薬		SEN/SEN_DATA.DAT:200B0	1	문자열
+01628	回復薬を上回る治癒力		SEN/SEN_DATA.DAT:200D0	1	문자열
+01629	ＨＰが３００回復　　　　　　　　#1単		SEN/SEN_DATA.DAT:200E6	1	문자열
+01630	メディカルマシン		SEN/SEN_DATA.DAT:20140	1	문자열
+01631	医療用のハンディマシーン　複数回使用		SEN/SEN_DATA.DAT:20160	1	문자열
+01632	ＨＰが１４０回復　　　　　　　　#1単		SEN/SEN_DATA.DAT:20186	1	문자열
+01633	気付け薬		SEN/SEN_DATA.DAT:201D0	1	문자열
+01634	疲弊した精神力を癒す薬品		SEN/SEN_DATA.DAT:201F0	1	문자열
+01635	ＳＰが４０回復　　　　　　　　　#1単		SEN/SEN_DATA.DAT:2020A	1	문자열
+01636	茨の総合薬		SEN/SEN_DATA.DAT:20260	1	문자열
+01637	茨博士が調合したもの		SEN/SEN_DATA.DAT:20280	1	문자열
+01638	ＨＰとＳＰが４５０回復　　　　　#1単		SEN/SEN_DATA.DAT:20296	1	문자열
+01639	真実の薬		SEN/SEN_DATA.DAT:202F0	1	문자열
+01640	真実の徒メンバーが携行する医薬品		SEN/SEN_DATA.DAT:20310	1	문자열
+01641	ＨＰとＳＰが１００回復　　　　　#1単		SEN/SEN_DATA.DAT:20332	1	문자열
+01642	真実の特効薬		SEN/SEN_DATA.DAT:20380	1	문자열
+01643	真実の薬を上回る治癒力		SEN/SEN_DATA.DAT:203A0	1	문자열
+01644	ＨＰとＳＰが４２５回復　　　　　#1単		SEN/SEN_DATA.DAT:203B8	1	문자열
+01645	真実の総合薬		SEN/SEN_DATA.DAT:20410	1	문자열
+01646	真実の徒幹部用の医薬品		SEN/SEN_DATA.DAT:20430	1	문자열
+01647	ＨＰとＳＰが９００回復　　　　　#1全		SEN/SEN_DATA.DAT:20448	1	문자열
+01648	ペットボトルに入った水道水		SEN/SEN_DATA.DAT:204C0	1	문자열
+01649	気絶状態が回復　　　　　　　　　#1単		SEN/SEN_DATA.DAT:204DC	1	문자열
+01650	ワクチン		SEN/SEN_DATA.DAT:20530	1	문자열
+01651	医薬品の一種		SEN/SEN_DATA.DAT:20550	2	문자열
+01652	毒状態が回復　　　　　　　　　　#1単		SEN/SEN_DATA.DAT:2055E	1	문자열
+01653	メンソーレ		SEN/SEN_DATA.DAT:205C0	1	문자열
+01654	医薬品だが、まぶたに塗ることにより		SEN/SEN_DATA.DAT:205E0	1	문자열
+01655	催眠状態が回復　　　　　　　　　#1単		SEN/SEN_DATA.DAT:20604	1	문자열
+01656	精神安定剤		SEN/SEN_DATA.DAT:20650	1	문자열
+01657	ショック状態を癒すトランキライザー		SEN/SEN_DATA.DAT:20670	1	문자열
+01658	混乱状態が回復　　　　　　　　　#1単		SEN/SEN_DATA.DAT:20694	1	문자열
+01659	バトルドラッグ		SEN/SEN_DATA.DAT:206E0	1	문자열
+01660	超能力不能状態が回復　　　　　　#1単		SEN/SEN_DATA.DAT:2070E	1	문자열
+01661	祖母の薬		SEN/SEN_DATA.DAT:20770	1	문자열
+01662	まりかの祖母　セツが調合したもの		SEN/SEN_DATA.DAT:20790	1	문자열
+01663	戦闘不能状態が回復　　　　　　　#1単		SEN/SEN_DATA.DAT:207B2	1	문자열
+01664	手榴弾		SEN/SEN_DATA.DAT:20800	1	문자열
+01665	時限信管式手榴弾で攻撃力は絶大		SEN/SEN_DATA.DAT:20820	1	문자열
+01666	１６０のダメージ　　　使いきり　#1全		SEN/SEN_DATA.DAT:20840	1	문자열
+01667	肉包丁		SEN/SEN_DATA.DAT:20890	1	문자열
+01668	肉を切るための出刃包丁		SEN/SEN_DATA.DAT:208B0	1	문자열
+01669	５０のダメージ　　　　使いきり　#1単		SEN/SEN_DATA.DAT:208C8	1	문자열
+01670	ナイフ		SEN/SEN_DATA.DAT:20920	1	문자열
+01671	海軍用短剣		SEN/SEN_DATA.DAT:20940	1	문자열
+01672	７０のダメージ　　　　使いきり　#1単		SEN/SEN_DATA.DAT:2094C	1	문자열
+01673	小型の内臓カートリッヂ式		SEN/SEN_DATA.DAT:209D0	1	문자열
+01674	１００のダメージ　　　使いきり　#1単		SEN/SEN_DATA.DAT:209EA	1	문자열
+01675	火炎放射器		SEN/SEN_DATA.DAT:20A40	1	문자열
+01676	大型のボンベ背負い式		SEN/SEN_DATA.DAT:20A60	1	문자열
+01677	７０のダメージ　　　　使いきり　#1全		SEN/SEN_DATA.DAT:20A76	1	문자열
+01678	濃硫酸		SEN/SEN_DATA.DAT:20AD0	1	문자열
+01679	硫酸濃度９５％		SEN/SEN_DATA.DAT:20AF0	1	문자열
+01680	８０のダメージ　　　　使いきり　#1単		SEN/SEN_DATA.DAT:20B00	1	문자열
+01681	毒矢		SEN/SEN_DATA.DAT:20B60	1	문자열
+01682	敵を毒状態にする　ただし強力な		SEN/SEN_DATA.DAT:20B80	1	문자열
+01683	敵にはきかない　　　　使いきり　#1単		SEN/SEN_DATA.DAT:20BA0	1	문자열
+01684	フィッシュツリー		SEN/SEN_DATA.DAT:20BF0	1	문자열
+01685	敵を麻痺状態にする有毒植物　ただし		SEN/SEN_DATA.DAT:20C10	1	문자열
+01686	強力な敵にはきかない　使いきり　#1単		SEN/SEN_DATA.DAT:20C34	2	문자열
+01687	ディバン		SEN/SEN_DATA.DAT:20C80	1	문자열
+01688	敵を催眠状態にする有毒植物　ただし		SEN/SEN_DATA.DAT:20CA0	1	문자열
+01689	ガリーナの笛		SEN/SEN_DATA.DAT:20D10	2	문자열
+01690	敵を混乱状態にする　　　　複数回使用		SEN/SEN_DATA.DAT:20D30	1	문자열
+01691	ただし強力な敵にはきかない　　　#1単		SEN/SEN_DATA.DAT:20D56	1	문자열
+01692	香水		SEN/SEN_DATA.DAT:20DA0	1	문자열
+01693	日本製の安物		SEN/SEN_DATA.DAT:20DC0	1	문자열
+01694	魅力が30%上昇　　　　　　　　　 #1単		SEN/SEN_DATA.DAT:20DCE	1	문자열
+01695	強壮剤		SEN/SEN_DATA.DAT:20E30	1	문자열
+01696	興奮剤の一種		SEN/SEN_DATA.DAT:20E50	1	문자열
+01697	攻撃力が30%上昇　　　　　　　　 #1単		SEN/SEN_DATA.DAT:20E5E	1	문자열
+01698	ドーピング剤		SEN/SEN_DATA.DAT:20EC0	1	문자열
+01699	スポーツ選手も使っているという噂		SEN/SEN_DATA.DAT:20EE0	1	문자열
+01700	素早さが50%上昇　　　　　　　　 #1単		SEN/SEN_DATA.DAT:20F02	1	문자열
+01701	バーサーク		SEN/SEN_DATA.DAT:20F50	1	문자열
+01702	攻撃力が30%上昇　　　　　 複数回使用		SEN/SEN_DATA.DAT:20F70	1	문자열
+01703	ハーミオンの遺品　　　　　　　　#1単		SEN/SEN_DATA.DAT:20F96	1	문자열
+01704	祖母のお守り		SEN/SEN_DATA.DAT:20FE0	1	문자열
+01705	超能力効果が20%上昇　　　 複数回使用		SEN/SEN_DATA.DAT:21000	1	문자열
+01706	まりかの祖母、セツの遺品　　　　#1単		SEN/SEN_DATA.DAT:21026	1	문자열
+01707	オルガのマント		SEN/SEN_DATA.DAT:21070	1	문자열
+01708	防御力が40%上昇　　　　　 複数回使用		SEN/SEN_DATA.DAT:21090	1	문자열
+01709	オルガが着用しているもの　　　　#1単		SEN/SEN_DATA.DAT:210B6	1	문자열
+01710	アーミーネット		SEN/SEN_DATA.DAT:21100	1	문자열
+01711	防御力が20%上昇　　　　　 複数回使用		SEN/SEN_DATA.DAT:21120	1	문자열
+01712	軍用品　　　　　　　　　　　　　#1単		SEN/SEN_DATA.DAT:21146	1	문자열
+01713	耐冷フィールド		SEN/SEN_DATA.DAT:21190	1	문자열
+01714	冷気防御が上昇　　　　　　複数回使用		SEN/SEN_DATA.DAT:211B0	1	문자열
+01715	耐寒フィルムの一種　　　　　　　#1単		SEN/SEN_DATA.DAT:211D6	1	문자열
+01716	耐熱フィールド		SEN/SEN_DATA.DAT:21220	1	문자열
+01717	火炎防御が上昇　　　　　　複数回使用		SEN/SEN_DATA.DAT:21240	1	문자열
+01718	耐熱フィルムの一種　　　　　　　#1単		SEN/SEN_DATA.DAT:21266	1	문자열
+01719	まりかのリボン		SEN/SEN_DATA.DAT:212B0	1	문자열
+01720	まりかが小学生の頃に使っていたリボン		SEN/SEN_DATA.DAT:212D0	1	문자열
+01721	能力伝導効率は悪い　　　　#1ま　５８		SEN/SEN_DATA.DAT:212F6	1	문자열
+01722	丈夫なリボン		SEN/SEN_DATA.DAT:21340	1	문자열
+01723	丈夫な繊維で作られたリボン		SEN/SEN_DATA.DAT:21360	1	문자열
+01724	#1ま　１１		SEN/SEN_DATA.DAT:21386	1	문자열
+01725	高級リボン		SEN/SEN_DATA.DAT:213D0	1	문자열
+01726	能力伝達効率が良く		SEN/SEN_DATA.DAT:213F0	1	문자열
+01727	クリティカル率が若干高い　#1ま　１６		SEN/SEN_DATA.DAT:21404	1	문자열
+01728	毒のリボン		SEN/SEN_DATA.DAT:21460	1	문자열
+01729	リボンの先に毒が塗ってある		SEN/SEN_DATA.DAT:21480	1	문자열
+01730	ただし限界レベルは低い　　#1ま　１８		SEN/SEN_DATA.DAT:2149C	1	문자열
+01731	母さんのリボン		SEN/SEN_DATA.DAT:214F0	1	문자열
+01732	母、永美が持っていたリボン		SEN/SEN_DATA.DAT:21510	1	문자열
+01733	#1ま　２５		SEN/SEN_DATA.DAT:21536	1	문자열
+01734	祖母のリボン		SEN/SEN_DATA.DAT:21580	1	문자열
+01735	祖母がサイドウエポンとして使って		SEN/SEN_DATA.DAT:215A0	1	문자열
+01736	いたらしいリボン　　　　　#1ま　３６		SEN/SEN_DATA.DAT:215C2	1	문자열
+01737	茨のリボン		SEN/SEN_DATA.DAT:21610	1	문자열
+01738	能力伝達効率の高い素材で作られた		SEN/SEN_DATA.DAT:21630	1	문자열
+01739	リボン　高い戦闘力を誇る　#1ま　４１		SEN/SEN_DATA.DAT:21652	1	문자열
+01740	非情のリボン		SEN/SEN_DATA.DAT:216A0	1	문자열
+01741	毒のリボンを改良した護身用　戒厳令下		SEN/SEN_DATA.DAT:216C0	1	문자열
+01742	の女子高生達に人気の一品　#1ま　４２		SEN/SEN_DATA.DAT:216E6	1	문자열
+01743	硬質リボン		SEN/SEN_DATA.DAT:21730	1	문자열
+01744	金属繊維によって作られたリボン		SEN/SEN_DATA.DAT:21750	1	문자열
+01745	敵を麻痺させる　　　　　　#1ま　４６		SEN/SEN_DATA.DAT:21770	1	문자열
+01746	軽やかなリボン		SEN/SEN_DATA.DAT:217C0	1	문자열
+01747	ビニール素材によって作られたリボン		SEN/SEN_DATA.DAT:217E0	1	문자열
+01748	軽量のため連続攻撃が可能　#1ま　４４		SEN/SEN_DATA.DAT:21804	1	문자열
+01749	リラルルリボン		SEN/SEN_DATA.DAT:21850	1	문자열
+01750	魔女っ娘が使うリボン		SEN/SEN_DATA.DAT:21870	1	문자열
+01751	#1ま　５８		SEN/SEN_DATA.DAT:21886	1	문자열
+01752	はるみのリボン		SEN/SEN_DATA.DAT:218E0	1	문자열
+01753	はるみが使っていたリボン		SEN/SEN_DATA.DAT:21900	1	문자열
+01754	すごく弱い　　　　　　　　#1ま　５８		SEN/SEN_DATA.DAT:2191A	1	문자열
+01755	最後のリボン		SEN/SEN_DATA.DAT:21970	5	문자열
+01756	思考伝達チップを埋め込んだリボン		SEN/SEN_DATA.DAT:21990	5	문자열
+01757	伝達率５０％　　　　　　　#1ま　５４		SEN/SEN_DATA.DAT:219B2	1	문자열
+01758	伝達率７０％　　　　　　　#1ま　５５		SEN/SEN_DATA.DAT:21A42	1	문자열
+01759	伝達率８５％　　　　　　　#1ま　５６		SEN/SEN_DATA.DAT:21AD2	1	문자열
+01760	伝達率９１％　　　　　　　#1ま　５７		SEN/SEN_DATA.DAT:21B62	1	문자열
+01761	伝達率９５％　　　　　　　#1ま　５８		SEN/SEN_DATA.DAT:21BF2	1	문자열
+01762	加藤のバット		SEN/SEN_DATA.DAT:21C40	1	문자열
+01763	あきら愛用の一品　スポーツ用品店で		SEN/SEN_DATA.DAT:21C60	1	문자열
+01764	万引きしたバット　　　　　#1あ　５８		SEN/SEN_DATA.DAT:21C84	1	문자열
+01765	甲子園バット		SEN/SEN_DATA.DAT:21CD0	1	문자열
+01766	高校球児が勧める飛距離ＮＯ，１の		SEN/SEN_DATA.DAT:21CF0	1	문자열
+01767	金属バット　　　　　　　　#1あ　１５		SEN/SEN_DATA.DAT:21D12	1	문자열
+01768	ショックバット		SEN/SEN_DATA.DAT:21D60	1	문자열
+01769	重心を高めに設定したことにより		SEN/SEN_DATA.DAT:21D80	1	문자열
+01770	麻痺攻撃の特性も　　　　　#1あ　１７		SEN/SEN_DATA.DAT:21DA0	1	문자열
+01771	キングスバット		SEN/SEN_DATA.DAT:21DF0	1	문자열
+01772	ホームランキング御用達のブランド品		SEN/SEN_DATA.DAT:21E10	1	문자열
+01773	高い攻撃力を誇る　　　　　#1あ　２１		SEN/SEN_DATA.DAT:21E34	1	문자열
+01774	職人バット		SEN/SEN_DATA.DAT:21E80	1	문자열
+01775	富山のバット職人が精魂込めて作った		SEN/SEN_DATA.DAT:21EA0	1	문자열
+01776	一品　　　　　　　　　　　#1あ　２７		SEN/SEN_DATA.DAT:21EC4	1	문자열
+01777	茨のバット		SEN/SEN_DATA.DAT:21F10	1	문자열
+01778	強化セラミックにより作られたバット		SEN/SEN_DATA.DAT:21F30	1	문자열
+01779	軽く使いやすい　　　　　　#1あ　３５		SEN/SEN_DATA.DAT:21F54	1	문자열
+01780	凪ぎ倒しバット		SEN/SEN_DATA.DAT:21FA0	1	문자열
+01781	軽く丈夫なため、全体攻撃の特性を		SEN/SEN_DATA.DAT:21FC0	1	문자열
+01782	持つ　　　　　　　　　　　#1あ　３４		SEN/SEN_DATA.DAT:21FE2	1	문자열
+01783	マスコットバット		SEN/SEN_DATA.DAT:22030	1	문자열
+01784	練習用のおもりがついたバット		SEN/SEN_DATA.DAT:22050	1	문자열
+01785	#1あ　４２		SEN/SEN_DATA.DAT:22076	1	문자열
+01786	究極バット		SEN/SEN_DATA.DAT:220C0	1	문자열
+01787	富山のバット職人が作ったという一品		SEN/SEN_DATA.DAT:220E0	1	문자열
+01788	気絶攻撃の特性を持つ　　　#1あ　４６		SEN/SEN_DATA.DAT:22104	1	문자열
+01789	ハリセン		SEN/SEN_DATA.DAT:22150	1	문자열
+01790	ないてるビーストも一撃で		SEN/SEN_DATA.DAT:22170	1	문자열
+01791	おとなしくなる一品　　　　#1あ　５８		SEN/SEN_DATA.DAT:2218A	1	문자열
+01792	最後のバット		SEN/SEN_DATA.DAT:221E0	4	문자열
+01793	思考伝達チップを埋め込んだバット		SEN/SEN_DATA.DAT:22200	4	문자열
+01794	伝達率６９％　　　　　　　#1あ　５５		SEN/SEN_DATA.DAT:22222	1	문자열
+01795	伝達率８５％　　　　　　　#1あ　５６		SEN/SEN_DATA.DAT:222B2	1	문자열
+01796	伝達率９２％　　　　　　　#1あ　５７		SEN/SEN_DATA.DAT:22342	1	문자열
+01797	伝達率９５％　　　　　　　#1あ　５８		SEN/SEN_DATA.DAT:223D2	1	문자열
+01798	かなめのグローブ		SEN/SEN_DATA.DAT:22420	1	문자열
+01799	完命流柔術の習拳者に配布される		SEN/SEN_DATA.DAT:22440	1	문자열
+01800	グローブ　　　　　　　　　#1か　５８		SEN/SEN_DATA.DAT:22460	1	문자열
+01801	シュートグローブ		SEN/SEN_DATA.DAT:224B0	1	문자열
+01802	もとマスクマンも愛用しているという		SEN/SEN_DATA.DAT:224D0	1	문자열
+01803	新格闘技用グローブ　　　　#1か　１５		SEN/SEN_DATA.DAT:224F4	1	문자열
+01804	柔術グローブ		SEN/SEN_DATA.DAT:22540	1	문자열
+01805	ブラジル製の格闘技用グローブ		SEN/SEN_DATA.DAT:22560	1	문자열
+01806	#1か　２１		SEN/SEN_DATA.DAT:2257E	1	문자열
+01807	スチールグローブ		SEN/SEN_DATA.DAT:225D0	1	문자열
+01808	金属製のグローブ		SEN/SEN_DATA.DAT:225F0	1	문자열
+01809	#1か　２７		SEN/SEN_DATA.DAT:22616	1	문자열
+01810	茨のグローブ		SEN/SEN_DATA.DAT:22660	1	문자열
+01811	特殊な合成皮によって作られたグローブ		SEN/SEN_DATA.DAT:22680	1	문자열
+01812	限界レベルが高い　　　　　#1か　３２		SEN/SEN_DATA.DAT:226A6	1	문자열
+01813	カスタムグローブ		SEN/SEN_DATA.DAT:226F0	1	문자열
+01814	高名な柔術家がストリートファイト用に		SEN/SEN_DATA.DAT:22710	1	문자열
+01815	改造したグローブ　　　　　#1か　３７		SEN/SEN_DATA.DAT:22736	1	문자열
+01816	フィットグローブ		SEN/SEN_DATA.DAT:22780	1	문자열
+01817	かなめの手のサイズに合わせたグローブ		SEN/SEN_DATA.DAT:227A0	1	문자열
+01818	連続攻撃の特性を持つ　　　#1か　３８		SEN/SEN_DATA.DAT:227C6	1	문자열
+01819	究極グローブ		SEN/SEN_DATA.DAT:22810	1	문자열
+01820	バーリトゥード大会優勝者が使用して		SEN/SEN_DATA.DAT:22830	1	문자열
+01821	いたという一品　　　　　　#1か　４４		SEN/SEN_DATA.DAT:22854	1	문자열
+01822	チャンピオングローブ		SEN/SEN_DATA.DAT:228A0	1	문자열
+01823	世界チャンピオンの愛用品		SEN/SEN_DATA.DAT:228C0	1	문자열
+01824	#1か　５８		SEN/SEN_DATA.DAT:228DA	1	문자열
+01825	最後のグローブ		SEN/SEN_DATA.DAT:22930	4	문자열
+01826	思考伝達チップを埋め込んだグローブ		SEN/SEN_DATA.DAT:22950	4	문자열
+01827	伝達率７２％　　　　　　　#1か　５５		SEN/SEN_DATA.DAT:22974	1	문자열
+01828	伝達率８５％　　　　　　　#1か　５６		SEN/SEN_DATA.DAT:22A04	1	문자열
+01829	伝達率９１％　　　　　　　#1か　５７		SEN/SEN_DATA.DAT:22A94	1	문자열
+01830	伝達率９５％　　　　　　　#1か　５８		SEN/SEN_DATA.DAT:22B24	1	문자열
+01831	制服		SEN/SEN_DATA.DAT:22B70	1	문자열
+01832	学校の制服　防御力は極めて低い		SEN/SEN_DATA.DAT:22B90	2	문자열
+01833	#1ま　　　か　５８		SEN/SEN_DATA.DAT:22BB0	2	문자열
+01834	ボンテージ		SEN/SEN_DATA.DAT:22C00	1	문자열
+01835	皮製のボディスーツ　防御力は低い		SEN/SEN_DATA.DAT:22C20	2	문자열
+01836	#1あ　　　５８		SEN/SEN_DATA.DAT:22C42	1	문자열
+01837	ブランド服		SEN/SEN_DATA.DAT:22C90	1	문자열
+01838	ブランド物のエプロンドレス		SEN/SEN_DATA.DAT:22CB0	1	문자열
+01839	ジャケット		SEN/SEN_DATA.DAT:22D20	1	문자열
+01840	デザインはイマイチだが動きやすい		SEN/SEN_DATA.DAT:22D40	1	문자열
+01841	#1ま　あ　か　　６		SEN/SEN_DATA.DAT:22D62	1	문자열
+01842	作業着		SEN/SEN_DATA.DAT:22DB0	1	문자열
+01843	工員用の作業服　防御力はそれなりだが		SEN/SEN_DATA.DAT:22DD0	1	문자열
