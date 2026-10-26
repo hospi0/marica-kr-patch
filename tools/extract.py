@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from iso9660 import Iso
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TRACK1 = r'C:\claude\roms\ss\Marica - Shinjitsu no Sekai (Japan)\Marica - Shinjitsu no Sekai (Japan) (Track 1).bin'
+TRACK1 = r'D:\hospi\My Documents\한글패치\SS\ss\Marica - Shinjitsu no Sekai (Japan)\Marica - Shinjitsu no Sekai (Japan) (Track 1).bin'
 OUT = os.path.join(ROOT, 'work', 'disc')
 
 

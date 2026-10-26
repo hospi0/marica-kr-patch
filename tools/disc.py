@@ -2,7 +2,7 @@
 """다이노 아일랜드 트랙 1 ISO 읽기(2026-10-10) — 파일 목록·꺼내기. python tools/disc.py <이름…> → work/disc/"""
 import os, struct, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BIN = r'C:\claude\roms\ss\Marica - Shinjitsu no Sekai (Japan)\Marica - Shinjitsu no Sekai (Japan) (Track 1).bin'
+BIN = r'D:\hospi\My Documents\한글패치\SS\ss\Marica - Shinjitsu no Sekai (Japan)\Marica - Shinjitsu no Sekai (Japan) (Track 1).bin'
 
 
 def sec(f, l, n=1):
