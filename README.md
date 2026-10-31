@@ -1,4 +1,4 @@
-# 마리카 ~진실의 세계~ (Marica - Shinjitsu no Sekai, 세가 새턴 일본판) 한글 패치
+# 마리카 \~진실의 세계\~ (Marica - Shinjitsu no Sekai, 세가 새턴 일본판) 한글 패치
 
 배포: [Releases](../../releases) 의 `Marica_KR_v0.9.zip` — 트랙 1 xdelta + 적용 bat + readme.
 
